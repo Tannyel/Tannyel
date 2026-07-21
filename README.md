@@ -1,4 +1,4 @@
-## # Hi, I'm Kirk Nathaniel Gamorot
+## Hi, I'm Kirk Nathaniel Gamorot
 
 ## Business Analytics Student | Project Leader | Researcher
 
