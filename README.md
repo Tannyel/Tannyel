@@ -1,4 +1,4 @@
-## # Hi, I'm Kirk Nathaniel Gamorot 👋
+## # Hi, I'm Kirk Nathaniel Gamorot
 
 ## Business Analytics Student | Project Leader | Researcher
 
@@ -8,7 +8,7 @@ I enjoy solving problems through **analytics, research, project coordination, an
 
 ---
 
-## 🎓 Education
+## Education
 
 **Far Eastern University Institute of Technology**
 
@@ -20,9 +20,9 @@ Expected Graduation: **2027**
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 📊 Project BIG-ES
+### Project BIG-ES
 **Project Leader**
 
 Barangay Integrated Governance and Environmental Sustainability with Revenue Projections using Prophet Forecasting Model
@@ -35,7 +35,7 @@ Barangay Integrated Governance and Environmental Sustainability with Revenue Pro
 
 ---
 
-### 📄 International Conference Publication
+### International Conference Publication
 **Predicting the Green Purchase Intention of Generation Z Café Consumers in Manila using Machine Learning Techniques**
 
 Published in the
@@ -44,14 +44,14 @@ Published in the
 
 ---
 
-## 📜 Certifications
+## Certifications
 
 - PMI Project Management Ready
 - Cisco Certified Support Technician – Networking
 
 ---
 
-## 💻 Technical Skills
+## Technical Skills
 
 ### Analytics
 
@@ -77,7 +77,7 @@ Published in the
 
 ---
 
-## 📚 Currently Learning
+## Currently Learning
 
 - Power BI
 - SQL
@@ -86,7 +86,7 @@ Published in the
 
 ---
 
-## 📫 Connect with Me
+## Connect with Me
 
 LinkedIn *(Coming Soon)*
 
