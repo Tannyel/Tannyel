@@ -88,8 +88,8 @@ Published in the
 
 ## Connect with Me
 
-LinkedIn *(Coming Soon)*
+Email: zaynalarcon13@gmail.com
+
+LinkedIn www.linkedin.com/in/kirkgamorot
 
 Portfolio *(Coming Soon)*
-
-Email: zaynalarcon13@gmail.com
