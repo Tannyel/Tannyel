@@ -88,7 +88,7 @@ Published in the
 
 ## Connect with Me
 
-Email: zaynalarcon13@gmail.com
+Email: kirk.n.gamorot@gmail.com
 
 LinkedIn www.linkedin.com/in/kirkgamorot
 
