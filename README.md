@@ -44,6 +44,20 @@ Published in the
 
 ---
 
+### Predicting Company Productivity and Employee Turnover
+**Predictive Analytics Project | RStudio | 2026**
+
+An AI-assisted predictive analytics project examining how organizational and HR-related characteristics influence company productivity and employee turnover. Using RStudio, the project involved cleaning and analyzing a dataset of 7,000 observations, conducting exploratory data analysis, and comparing regression models to identify patterns and evaluate predictive performance. 
+- Data Cleaning & Preprocessing
+- Exploratory Data Analysis (EDA)
+- Data Visualization
+- Multiple Linear Regression
+- Logistic Regression
+- Model Evaluation & Comparison
+- AI-Assisted Analytical Reporting
+
+---
+
 ## Certifications
 
 - PMI Project Management Ready
